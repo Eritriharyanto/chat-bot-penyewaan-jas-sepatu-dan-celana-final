@@ -1,0 +1,869 @@
+{
+  "informasi_toko": {
+    "nama_usaha": "Sewa Jas & Formal Wear",
+    "deskripsi": "Menyediakan jasa sewa jas, celana, dan sepatu pantofel untuk acara formal, wisuda, pernikahan, dan kondangan.",
+    "jam_operasional": "09.00 - 20.00 WIB, Setiap hari",
+    "kontak": "0812-xxxx-xxxx",
+    "metode_pembayaran": [
+      "Tunai",
+      "Transfer Bank",
+      "E-wallet"
+    ],
+    "syarat_sewa": [
+      "Menyerahkan kartu identitas (KTP/SIM) sebagai jaminan",
+      "Membayar DP minimal 50% saat booking",
+      "Barang dikembalikan dalam kondisi bersih dan tidak rusak"
+    ],
+    "kebijakan_denda": {
+      "denda_per_hari": 10000,
+      "toleransi_jam": 0,
+      "keterangan": "Denda dihitung per hari keterlambatan tanpa toleransi waktu. Untuk barang rusak atau hilang, biaya penggantian dikonfirmasi langsung oleh admin.",
+      "denda_barang_rusak": "Sesuai tingkat kerusakan, nominal dikonfirmasi langsung oleh admin saat pengecekan barang",
+      "denda_barang_hilang": "Wajib mengganti sesuai harga barang yang berlaku (bukan harga sewa)"
+    },
+    "alamat": "Jl. Contoh Alamat No. 1, Kota Anda (mohon disesuaikan dengan alamat asli toko)",
+    "durasi_sewa": {
+      "minimal_hari": 1,
+      "maksimal_hari": 7,
+      "keterangan": "Sewa lebih dari 7 hari bisa nego langsung ke admin"
+    },
+    "kebijakan_pembatalan": {
+      "dp_dikembalikan": false,
+      "boleh_reschedule": true,
+      "keterangan": "DP tidak bisa dikembalikan jika sewa dibatalkan, tapi tanggal sewa bisa direschedule maksimal 1 kali dengan konfirmasi ke admin minimal H-1 sebelum tanggal sewa"
+    },
+    "layanan_antar": {
+      "tersedia": true,
+      "area": "Sekitar kota (radius sesuai kebijakan toko)",
+      "biaya": "Menyesuaikan jarak, dikonfirmasi saat booking",
+      "keterangan": "Selain diantar, bisa juga ambil langsung di toko"
+    },
+    "promo": {
+      "aktif": false,
+      "keterangan": "Saat ini belum ada promo yang sedang berjalan, info promo terbaru biasanya diumumkan lewat media sosial toko"
+    }
+  },
+  "produk": {
+    "jas": {
+      "deskripsi": "Jas formal pria/wanita tersedia dari ukuran XS sampai 5XL",
+      "ukuran_tersedia": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL",
+        "4XL",
+        "5XL"
+      ],
+      "varian_warna": [
+        {
+          "warna": "Hitam",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Biru Dongker (Navy)",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Biru Muda",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Abu-abu Tua",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Abu-abu Muda",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Cream",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Coklat Tua",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Putih Tulang",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Maroon",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Hijau Army",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Silver",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        },
+        {
+          "warna": "Biru Elektrik",
+          "ukuran_tersedia": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL",
+            "4XL",
+            "5XL"
+          ],
+          "harga_sewa_per_hari": 150000,
+          "stok_per_ukuran": {
+            "XS": 5,
+            "S": 5,
+            "M": 5,
+            "L": 5,
+            "XL": 5,
+            "XXL": 5,
+            "XXXL": 5,
+            "4XL": 5,
+            "5XL": 5
+          }
+        }
+      ],
+      "size_chart": [
+        {
+          "ukuran": "XS",
+          "lingkar_dada_cm": "84-88",
+          "berat_badan_kg": "40-50"
+        },
+        {
+          "ukuran": "S",
+          "lingkar_dada_cm": "88-92",
+          "berat_badan_kg": "50-60"
+        },
+        {
+          "ukuran": "M",
+          "lingkar_dada_cm": "92-96",
+          "berat_badan_kg": "60-70"
+        },
+        {
+          "ukuran": "L",
+          "lingkar_dada_cm": "96-100",
+          "berat_badan_kg": "70-80"
+        },
+        {
+          "ukuran": "XL",
+          "lingkar_dada_cm": "100-104",
+          "berat_badan_kg": "80-90"
+        },
+        {
+          "ukuran": "XXL",
+          "lingkar_dada_cm": "104-108",
+          "berat_badan_kg": "90-100"
+        },
+        {
+          "ukuran": "XXXL",
+          "lingkar_dada_cm": "108-112",
+          "berat_badan_kg": "100-110"
+        },
+        {
+          "ukuran": "4XL",
+          "lingkar_dada_cm": "112-116",
+          "berat_badan_kg": "110-120"
+        },
+        {
+          "ukuran": "5XL",
+          "lingkar_dada_cm": "116-120",
+          "berat_badan_kg": "120-130"
+        }
+      ]
+    },
+    "celana": {
+      "deskripsi": "Celana bahan formal, warna menyesuaikan pilihan warna jas",
+      "ukuran_tersedia": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "varian_warna": [
+        {
+          "warna": "Hitam",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Biru Dongker (Navy)",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Biru Muda",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Abu-abu Tua",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Abu-abu Muda",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Cream",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Coklat Tua",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Putih Tulang",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Maroon",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Hijau Army",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Silver",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        },
+        {
+          "warna": "Biru Elektrik",
+          "ukuran_tersedia": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "harga_sewa_per_hari": 50000,
+          "stok_per_ukuran": {
+            "27": 5,
+            "28": 5,
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5
+          }
+        }
+      ]
+    },
+    "sepatu": {
+      "deskripsi": "Sepatu pantofel hitam formal",
+      "ukuran_tersedia": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "varian_warna": [
+        {
+          "warna": "Hitam",
+          "jenis": "Pantofel",
+          "ukuran_tersedia": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ],
+          "harga_sewa_per_hari": 40000,
+          "stok_per_ukuran": {
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "33": 5,
+            "34": 5,
+            "35": 5,
+            "36": 5,
+            "37": 5,
+            "38": 5,
+            "39": 5,
+            "40": 5,
+            "41": 5,
+            "42": 5,
+            "43": 5,
+            "44": 5,
+            "45": 5,
+            "46": 5
+          }
+        }
+      ]
+    }
+  },
+  "paket_sewa": [
+    {
+      "nama_paket": "Paket Lengkap (Jas + Celana + Sepatu)",
+      "harga_sewa_per_hari": 200000,
+      "catatan": "Warna celana otomatis menyesuaikan warna jas yang dipilih"
+    },
+    {
+      "nama_paket": "Paket Jas + Celana",
+      "harga_sewa_per_hari": 180000
+    },
+    {
+      "nama_paket": "Sewa Jas Saja",
+      "harga_sewa_per_hari": 150000
+    },
+    {
+      "nama_paket": "Sewa Celana Saja",
+      "harga_sewa_per_hari": 50000
+    },
+    {
+      "nama_paket": "Sewa Sepatu Saja",
+      "harga_sewa_per_hari": 40000
+    }
+  ]
+}
