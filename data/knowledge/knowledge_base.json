@@ -4,11 +4,7 @@
     "deskripsi": "Menyediakan jasa sewa jas, celana, dan sepatu pantofel untuk acara formal, wisuda, pernikahan, dan kondangan.",
     "jam_operasional": "09.00 - 20.00 WIB, Setiap hari",
     "kontak": "0812-xxxx-xxxx",
-    "metode_pembayaran": [
-      "Tunai",
-      "Transfer Bank",
-      "E-wallet"
-    ],
+    "metode_pembayaran": ["Tunai", "Transfer Bank", "E-wallet"],
     "syarat_sewa": [
       "Menyerahkan kartu identitas (KTP/SIM) sebagai jaminan",
       "Membayar DP minimal 50% saat booking",
@@ -21,7 +17,7 @@
       "denda_barang_rusak": "Sesuai tingkat kerusakan, nominal dikonfirmasi langsung oleh admin saat pengecekan barang",
       "denda_barang_hilang": "Wajib mengganti sesuai harga barang yang berlaku (bukan harga sewa)"
     },
-    "alamat": "Jl. Contoh Alamat No. 1, Kota Anda (mohon disesuaikan dengan alamat asli toko)",
+    "alamat": "Jl. Contoh Alamat No. 1, Kota Anda (mohon disesuaikan dengan alamat asli toko) No WA 0812-xxxx-xxxx",
     "durasi_sewa": {
       "minimal_hari": 1,
       "maksimal_hari": 7,
@@ -56,320 +52,6 @@
         "XXXL",
         "4XL",
         "5XL"
-      ],
-      "varian_warna": [
-        {
-          "warna": "Hitam",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Biru Dongker (Navy)",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Biru Muda",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Abu-abu Tua",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Abu-abu Muda",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Cream",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Coklat Tua",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Putih Tulang",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Maroon",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Hijau Army",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Silver",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        },
-        {
-          "warna": "Biru Elektrik",
-          "ukuran_tersedia": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL",
-            "4XL",
-            "5XL"
-          ],
-          "harga_sewa_per_hari": 150000,
-          "stok_per_ukuran": {
-            "XS": 5,
-            "S": 5,
-            "M": 5,
-            "L": 5,
-            "XL": 5,
-            "XXL": 5,
-            "XXXL": 5,
-            "4XL": 5,
-            "5XL": 5
-          }
-        }
       ],
       "size_chart": [
         {
@@ -417,405 +99,2875 @@
           "lingkar_dada_cm": "116-120",
           "berat_badan_kg": "120-130"
         }
-      ]
+      ],
+      "varian_model": [
+        {
+          "model": "Slim Fit",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        },
+        {
+          "model": "Regular Fit",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        },
+        {
+          "model": "Single Breasted",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        },
+        {
+          "model": "Double Breasted",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        },
+        {
+          "model": "Formal Klasik",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        },
+        {
+          "model": "Casual/Semi Formal",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        },
+        {
+          "model": "3-Piece (dengan Vest/Rompi)",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL",
+                "4XL",
+                "5XL"
+              ],
+              "harga_sewa_per_hari": 150000,
+              "stok_per_ukuran": {
+                "XS": 5,
+                "S": 5,
+                "M": 5,
+                "L": 5,
+                "XL": 5,
+                "XXL": 5,
+                "XXXL": 5,
+                "4XL": 5,
+                "5XL": 5
+              }
+            }
+          ]
+        }
+      ],
+      "catatan_model": "Harga sewa dan stok di bawah masih mengikuti data warna/ukuran yang sama untuk tiap model (asumsi sementara, belum ada data harga/stok berbeda per model dari toko). Mohon dikonfirmasi ke admin jika ada model tertentu yang harga atau stoknya berbeda."
     },
     "celana": {
       "deskripsi": "Celana bahan formal, warna menyesuaikan pilihan warna jas",
-      "ukuran_tersedia": [
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36
-      ],
-      "varian_warna": [
+      "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+      "varian_model": [
         {
-          "warna": "Hitam",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
+          "model": "Slim Fit",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            }
+          ]
         },
         {
-          "warna": "Biru Dongker (Navy)",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
+          "model": "Regular Fit",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            }
+          ]
         },
         {
-          "warna": "Biru Muda",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Abu-abu Tua",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Abu-abu Muda",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Cream",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Coklat Tua",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Putih Tulang",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Maroon",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Hijau Army",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Silver",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
-        },
-        {
-          "warna": "Biru Elektrik",
-          "ukuran_tersedia": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "harga_sewa_per_hari": 50000,
-          "stok_per_ukuran": {
-            "27": 5,
-            "28": 5,
-            "29": 5,
-            "30": 5,
-            "31": 5,
-            "32": 5,
-            "33": 5,
-            "34": 5,
-            "35": 5,
-            "36": 5
-          }
+          "model": "Straight Fit",
+          "varian_warna": [
+            {
+              "warna": "Hitam",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Dongker (Navy)",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Muda",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Tua",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Abu-abu Muda",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Cream",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Coklat Tua",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Putih Tulang",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Maroon",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Hijau Army",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Silver",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            },
+            {
+              "warna": "Biru Elektrik",
+              "ukuran_tersedia": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+              "harga_sewa_per_hari": 50000,
+              "stok_per_ukuran": {
+                "27": 5,
+                "28": 5,
+                "29": 5,
+                "30": 5,
+                "31": 5,
+                "32": 5,
+                "33": 5,
+                "34": 5,
+                "35": 5,
+                "36": 5
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "catatan_model": "Harga sewa dan stok di bawah masih mengikuti data warna/ukuran yang sama untuk tiap model (asumsi sementara, belum ada data harga/stok berbeda per model dari toko). Mohon dikonfirmasi ke admin jika ada model tertentu yang harga atau stoknya berbeda."
     },
     "sepatu": {
       "deskripsi": "Sepatu pantofel hitam formal",
       "ukuran_tersedia": [
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46
+        29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46
       ],
       "varian_warna": [
         {
           "warna": "Hitam",
           "jenis": "Pantofel",
           "ukuran_tersedia": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
+            29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
             46
           ],
           "harga_sewa_per_hari": 40000,
